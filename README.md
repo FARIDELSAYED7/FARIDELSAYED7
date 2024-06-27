@@ -53,10 +53,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FARIDELSAYED7/FARIDELSAYED7/output/snake.svg" alt="Snake animation" />
-
-###
