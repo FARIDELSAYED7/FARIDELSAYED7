@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'm a Software Developer, From Egypt</h2>
+<h2 align="left">Hi 👋! My name is Farid and I'm a Software Developer, From Egypt</h2>
 
 ###
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDAxN3ZuYTFjMTI5bHJiZngxanljNHFxaHZsMTV6YW54dGZvZnF0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif"  />
