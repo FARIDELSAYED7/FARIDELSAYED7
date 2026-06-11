@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid ElSayed</h1>
-<h3 align="center">Software Engineer & Computer Science Student</h3>
+<h3 align="center">Software Engineer & Computer Engineering Technology Student</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDAxN3ZuYTFjMTI5bHJiZngxanljNHFxaHZsMTV6YW54dGZvZnF0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif">
 
@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Algorithms, AI, and Software Engineering**
 - 💻 Interested in **Machine Learning & Mobile Development**
 - 📚 Passionate about **Mathematics and Problem Solving**
-- 🚀 Working toward becoming an **AI Engineer**
+- 🚀 Working toward becoming an **AI & Software Engineer**
 
 <br clear="right"/>
 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/FARID_ELSAYED7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=FARID_ELSAYED7&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARID_ELSAYED7&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=FARID_ELSAYED7&theme=tokyonight"/>
 </p>
