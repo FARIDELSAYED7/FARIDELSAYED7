@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid ElSayed</h1>
 <h3 align="center">Software Engineer & Computer Engineering Technology Student</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDAxN3ZuYTFjMTI5bHJiZngxanljNHFxaHZsMTV6YW54dGZvZnF0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer;Computer+Engineering+Technology+Student;Algorithms+%7C+AI+%7C+Mathematics;Building+the+Future+with+Code" />
+</p>
 
 ### 👨‍💻 About Me
 
